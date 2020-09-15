@@ -13,5 +13,5 @@
 #  See the License for the specific language governing permissions and
 #  limitations under the License.
 
-
+drop database if exists dms_sample;
 create database if not exists dms_sample;

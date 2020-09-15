@@ -13,4 +13,4 @@
 #  See the License for the specific language governing permissions and
 #  limitations under the License.
 
-GRANT ALL PRIVILEGES ON dms_sample.* TO 'dms_user'@'%' IDENTIFIED BY 'dms_user';
+GRANT ALL PRIVILEGES ON dms_sample.* TO 'dms_user'@'%';

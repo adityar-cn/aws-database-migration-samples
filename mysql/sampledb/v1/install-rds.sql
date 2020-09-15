@@ -38,12 +38,6 @@ source ./user/create_dms_user.sql
 source ./user/dms_user_privileges.sql
 
 
-#############################
-# RDS Specific commands
-#############################
-call mysql.rds_set_configuration('binlog retention hours',8);
-
-
 ############################
 #
 # install the objects in the dms_sample database
