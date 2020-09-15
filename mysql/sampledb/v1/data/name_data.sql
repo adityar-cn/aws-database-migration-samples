@@ -2034,7 +2034,6 @@ Insert into name_data (name_type,name) values ('LAST','Stephenson');
 Insert into name_data (name_type,name) values ('LAST','Henson');
 Insert into name_data (name_type,name) values ('LAST','Wilkerson');
 Insert into name_data (name_type,name) values ('LAST','Dyer');
-Insert into name_data (name_type,name) values ('LAST','Mcclure');
 Insert into name_data (name_type,name) values ('LAST','Blackwell');
 Insert into name_data (name_type,name) values ('LAST','Mercado');
 Insert into name_data (name_type,name) values ('LAST','Tanner');
