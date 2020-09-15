@@ -2049,7 +2049,6 @@ Insert into name_data (name_type,name) values ('LAST','Zamora');
 Insert into name_data (name_type,name) values ('LAST','Macdonald');
 Insert into name_data (name_type,name) values ('LAST','Vance');
 Insert into name_data (name_type,name) values ('LAST','Snow');
-Insert into name_data (name_type,name) values ('LAST','Mcclain');
 Insert into name_data (name_type,name) values ('LAST','Stafford');
 Insert into name_data (name_type,name) values ('LAST','Orozco');
 Insert into name_data (name_type,name) values ('LAST','Barry');
